@@ -1,2 +1,2 @@
 # cs101
-> It's HW 0 v 1.0
+> It's HW0 v1.0
